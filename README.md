@@ -1,6 +1,6 @@
 # GrubDash Front End Application
 
-###Installaation
+### Installation
 1. Fork / clone this repository.
 2. Run npm install.
 
